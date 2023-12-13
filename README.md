@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Olá. Me chamo <a href="https://www.linkedin.com/in/diego-ssa/"><i>Diego<i></a> </h1>
+  <h1 align="center">Sou o <a href="https://www.linkedin.com/in/diego-ssa/"><i>Diego<i></a> </h1>
   <p align="center">Estudo Ciência da Computação na <strong>Unijorge<strong> e atualmente estagio como Suporte Técnico no <strong>Jornal A Tarde<strong>
 
 </div>
